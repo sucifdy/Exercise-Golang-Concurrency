@@ -1,0 +1,13 @@
+{
+	"name": "exercise-golang-concurrency",
+	"course": "Dasar Pemrograman Backend",
+	"title": "Exercise Golang Concurrency",
+	"order": 9999,
+	"topics": [],
+	"image": "golang-basic",
+	"command": "go test",
+	"totalTestCase": 12,
+	"metadata": {
+		"type": "exercise"
+	}
+}
